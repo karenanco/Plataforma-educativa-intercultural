@@ -1,0 +1,24 @@
+{
+  "cartas": [
+    {
+      "id": 1,
+      "autor": "Anayansi",
+      "pueblo": "Guna Yala",
+      "ubicacion": "Panamá",
+      "contenido_original": "Igar obunoge!",
+      "contenido_traducido": "¡Buen camino!",
+      "imagen": "assets/img/carta1.jpg",
+      "tags": ["Naturaleza", "Tradición"]
+    },
+    {
+      "id": 2,
+      "autor": "Tayacán",
+      "pueblo": "Mapuche",
+      "ubicacion": "Chile",
+      "contenido_original": "Mari mari kom pu che.",
+      "contenido_traducido": "Hola a todos.",
+      "imagen": "assets/img/carta2.jpg",
+      "tags": ["Saludo", "Comunidad"]
+    }
+  ]
+}
